@@ -54,8 +54,8 @@
 		7F9050B32CE8A2480034CC9F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7F9050B42CE8A2480034CC9F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7F9050C12CE8BB560034CC9F /* OneSignalNotificationServiceExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = OneSignalNotificationServiceExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
-		7F9050DB2CE8D1470034CC9F /* OnesignalNotificationDemo.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = OnesignalNotificationDemo.mov; sourceTree = "<group>"; };
 		7F9050DC2CE8D1470034CC9F /* OnesignalNotificationDemo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OnesignalNotificationDemo.png; sourceTree = "<group>"; };
+		7F9050DD2CE8D72F0034CC9F /* OnesignalNotificationDemo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = OnesignalNotificationDemo.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -145,7 +145,7 @@
 		7F9050DA2CE8D11C0034CC9F /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				7F9050DB2CE8D1470034CC9F /* OnesignalNotificationDemo.mov */,
+				7F9050DD2CE8D72F0034CC9F /* OnesignalNotificationDemo.mp4 */,
 				7F9050DC2CE8D1470034CC9F /* OnesignalNotificationDemo.png */,
 			);
 			path = Assets;
